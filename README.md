@@ -23,7 +23,6 @@ Angular and node installations
 https://ericnshimiyimana.github.io/Amgular01/
 
 ## Technologies used
-
 Angular, HTML, CSS, Bootstrap.
 
 ## License and terms of use
