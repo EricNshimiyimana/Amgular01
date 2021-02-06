@@ -22,7 +22,6 @@ Angular and node installations
 ## Link to deployed page:
 https://ericnshimiyimana.github.io/Amgular01/
 
-
 ## Technologies used
 
 Angular, HTML, CSS, Bootstrap.
